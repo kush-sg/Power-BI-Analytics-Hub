@@ -21,7 +21,8 @@ Each case study contains dataset and .sql file
    ----
  
  ### Setup
-  * Install SQL Workbench
+  * Install SQL Workbench <br>
+  [Steps for Installation](https://dev.mysql.com/doc/workbench/en/wb-installing.html)
   * Import all tables given in the dataset
   * Open .sql file in the workbench
   * Run set of queries to get the output
