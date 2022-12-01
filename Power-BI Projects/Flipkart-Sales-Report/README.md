@@ -4,7 +4,7 @@
 #### This report contains some meaningful insights regarding covid-19 infection.
 
 
-This is the Live "Flipkart Sales report" of `Jvalati Enterprises` an Online seller for the year 2021 (`January` `February` `March` `April`) 
+This is the Live `Flipkart Sales report` of `Jvalati Enterprises` an Online seller for the year 2021 (`January` `February` `March` `April`) 
 Complete report is generated from the dataset provided by `Flipkart Seller Hub`
 
 ----
