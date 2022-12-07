@@ -8,13 +8,13 @@ Complete report is generated from the dataset provided by `Flipkart Seller Hub`
 ----
 
 ## Load Data to PowerBI
-Whith the help of Charts and Graphs tries to find some meaningful insignts
-* Top 5 selling product?
+With the help of Charts and Graphs tries to find some meaningful insights
+* Top 5 selling products?
 * Total Sales?
-* Which state has highest number of sales?
+* Which state has the highest number of sales?
 * Top 5 selling Authors?
 * Total number of Products sell in total?
-* Month having highest sales?
+* Which Month is having the highest sales?
 
 ----
 ## Report 
